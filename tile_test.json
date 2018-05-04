@@ -1,1 +1,1 @@
-{"test":{"icon":"T","desc":"test","collider":false,"items":[]},"test2":{"icon":"2","desc":"test","collider":true,"items":[]}}
+{"grass":{"icon":"G","desc":"grassy land","collider":"","items":[]},"wall":{"icon":"W","desc":"donald's wall","collider":true,"items":[]}}
