@@ -1,1 +1,1 @@
-{"test":{"icon":"T","desc":"test","collider":false,"items":[]},"test2":{"icon":"2","desc":"test","collider":false,"items":[]},"test3":{"icon":"3","desc":"test","collider":true,"items":[]},"test4":{"icon":"4","desc":"test","collider":"","items":[]},"test5":{"icon":"5","desc":"test","collider":true,"items":[]}}
+{"test":{"icon":"T","desc":"test","collider":false,"items":[]}}
